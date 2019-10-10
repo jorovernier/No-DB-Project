@@ -4,13 +4,35 @@
 
 .displays {
   background-color: blue;
+  width: 100vw;
+  height: 100vh;
   display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
 }
 
 .pokedex {
   background-color: green;
-  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  margin: 0 auto;
+  width: 400px;
+  height: 400px;
+  border: 1px solid #ccc;
+  overflow: auto;
 }
+
+.pokedex-display > span {
+  /* background-color: aqua; */
+  height: 10px;
+  width: 15px;
+  margin: 0px 5px;
+}
+
+/* .sprite-image {
+  background-color: red;
+} */
 
 .team {
   background-color: fuchsia;

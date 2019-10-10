@@ -3,25 +3,28 @@
         "id": 1,
         "name": "",
         "species": "Bulbasaur",
-        "type": "Grass",
+        "type": "Grass/Poison",
         "personality": "",
-        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/2/21/001Bulbasaur.png/250px-001Bulbasaur.png"
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/2/21/001Bulbasaur.png/250px-001Bulbasaur.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/e/ec/001MS.png"
     },
     {
         "id": 2,
         "name": "",
         "species": "Ivysaur",
-        "type": "Grass",
+        "type": "Grass/Poison",
         "personality": "",
-        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/7/73/002Ivysaur.png/250px-002Ivysaur.png"
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/7/73/002Ivysaur.png/250px-002Ivysaur.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/6/6b/002MS.png"
     },
     {
         "id": 3,
         "name": "",
         "species": "Venusaur",
-        "type": "Grass",
+        "type": "Grass/Poison",
         "personality": "",
-        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/a/ae/003Venusaur.png/250px-003Venusaur.png"
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/a/ae/003Venusaur.png/250px-003Venusaur.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/d/df/003MS.png"
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "species": "Charmander",
         "type": "Fire",
         "personality": "",
-        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/7/73/004Charmander.png/250px-004Charmander.png"
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/7/73/004Charmander.png/250px-004Charmander.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/b/bb/004MS.png"
     },
     {
         "id": 5,
@@ -37,15 +41,17 @@
         "species": "Charmeleon",
         "type": "Fire",
         "personality": "",
-        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/4/4a/005Charmeleon.png/250px-005Charmeleon.png"
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/4/4a/005Charmeleon.png/250px-005Charmeleon.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/d/dc/005MS.png"
     },
     {
         "id": 6,
         "name": "",
         "species": "Charizard",
-        "type": "Fire",
+        "type": "Fire/Flying",
         "personality": "",
-        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/7/7e/006Charizard.png/250px-006Charizard.png"
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/7/7e/006Charizard.png/250px-006Charizard.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/0/01/006MS.png"
     },
     {
         "id": 7,
@@ -53,7 +59,8 @@
         "species": "Squirtle",
         "type": "Water",
         "personality": "",
-        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/3/39/007Squirtle.png/250px-007Squirtle.png"
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/3/39/007Squirtle.png/250px-007Squirtle.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/9/92/007MS.png"
     },
     {
         "id": 8,
@@ -61,7 +68,8 @@
         "species": "Wartortle",
         "type": "Water",
         "personality": "",
-        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/0/0c/008Wartortle.png/250px-008Wartortle.png"
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/0/0c/008Wartortle.png/250px-008Wartortle.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/f/f3/008MS.png"
     },
     {
         "id": 9,
@@ -69,7 +77,8 @@
         "species": "Blastoise",
         "type": "Water",
         "personality": "",
-        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/0/02/009Blastoise.png/250px-009Blastoise.png"
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/0/02/009Blastoise.png/250px-009Blastoise.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/c/cb/009MS.png"
     },
     {
         "id": 10,
@@ -77,7 +86,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 11,
@@ -85,7 +95,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 12,
@@ -93,7 +104,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 13,
@@ -101,7 +113,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 14,
@@ -109,7 +122,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 15,
@@ -117,7 +131,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 16,
@@ -125,7 +140,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 17,
@@ -133,7 +149,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 18,
@@ -141,7 +158,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 19,
@@ -149,7 +167,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 20,
@@ -157,7 +176,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 21,
@@ -165,7 +185,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 22,
@@ -173,7 +194,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 23,
@@ -181,7 +203,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 24,
@@ -189,7 +212,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 25,
@@ -197,7 +221,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 26,
@@ -205,7 +230,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 27,
@@ -213,7 +239,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 28,
@@ -221,7 +248,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 29,
@@ -229,7 +257,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 30,
@@ -237,7 +266,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 31,
@@ -245,7 +275,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 32,
@@ -253,7 +284,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 33,
@@ -261,7 +293,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 34,
@@ -269,7 +302,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 35,
@@ -277,7 +311,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 36,
@@ -285,7 +320,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 37,
@@ -293,7 +329,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 38,
@@ -301,7 +338,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 39,
@@ -309,7 +347,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 40,
@@ -317,7 +356,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 41,
@@ -325,7 +365,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 42,
@@ -333,7 +374,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 43,
@@ -341,7 +383,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 44,
@@ -349,7 +392,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 45,
@@ -357,7 +401,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 46,
@@ -365,7 +410,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 47,
@@ -373,7 +419,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 48,
@@ -381,7 +428,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 49,
@@ -389,7 +437,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     },
     {
         "id": 50,
@@ -397,7 +446,8 @@
         "species": "",
         "type": "",
         "personality": "",
-        "pokemonImg": ""
+        "pokemonImg": "",
+        "sprite": ""
     }
     
 ]

@@ -68,11 +68,12 @@ class App extends React.Component {
     const mappedPokemon = pokemon.map(pokemon => {
       return (
         <div className='pokedex-display' key={pokemon.id} >
-          <h1>{pokemon.species}</h1>
-          <span>Dex #: {pokemon.id} Type: {pokemon.type}</span>
-          <div className='image'>
-            <img src={pokemon.pokemonImg} alt='pokemon team member' />
-          </div>
+          <span className='sprite-image'>
+            <img src={pokemon.sprite} alt='pokemon team member' />
+          </span>
+          <span>{pokemon.species} </span>
+          <span>Dex #: {pokemon.id} </span>
+          <span>Type: {pokemon.type} </span>
         </div>
       )
     })

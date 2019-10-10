@@ -52,7 +52,7 @@ export default class PokemonFinder extends Component {
                 <div>Pokemon: {foundPokemon.species}</div>
                 <span>Type: {foundPokemon.type}</span>
                 <div>
-                    <img src={foundPokemon.pokemonImg} alt='pokemon' />
+                    <img src={foundPokemon.pokemonImg} alt='' />
                 </div>
             </div>
         )
