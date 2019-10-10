@@ -1,22 +1,20 @@
-.App {
-  text-align: center;
+.main {
+  background-color: red;
 }
 
-.App-logo {
-  height: 40vmin;
+.displays {
+  background-color: blue;
+  display: flex;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.pokedex {
+  background-color: green;
+  width: 50%;
+}
+
+.team {
+  background-color: fuchsia;
+  width: 50%;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #09d3ac;
 }
