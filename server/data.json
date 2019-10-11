@@ -83,155 +83,155 @@
     {
         "id": 10,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Caterpie",
+        "type": "Bug",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/5/5d/010Caterpie.png/250px-010Caterpie.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/6/69/010MS.png"
     },
     {
         "id": 11,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Metapod",
+        "type": "Bug",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/c/cd/011Metapod.png/250px-011Metapod.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/c/ce/011MS.png"
     },
     {
         "id": 12,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Butterfree",
+        "type": "Bug/Flying",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/d/d1/012Butterfree.png/250px-012Butterfree.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/1/14/012MS.png"
     },
     {
         "id": 13,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Weedle",
+        "type": "Bug/Poison",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/d/df/013Weedle.png/250px-013Weedle.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/6/65/013MS.png"
     },
     {
         "id": 14,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Kakuna",
+        "type": "Bug/Poison",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/f/f0/014Kakuna.png/250px-014Kakuna.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/8/81/014MS.png"
     },
     {
         "id": 15,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Beedrill",
+        "type": "Bug/Poison",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/6/61/015Beedrill.png/250px-015Beedrill.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/5/5a/015MS.png"
     },
     {
         "id": 16,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Pidgey",
+        "type": "Normal/Flying",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/5/55/016Pidgey.png/250px-016Pidgey.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/9/9c/016MS.png"
     },
     {
         "id": 17,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Pidgeotto",
+        "type": "Normal/Flying",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/7/7a/017Pidgeotto.png/250px-017Pidgeotto.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/a/a9/017MS.png"
     },
     {
         "id": 18,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Pidgeot",
+        "type": "Normal/Flying",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/5/57/018Pidgeot.png/250px-018Pidgeot.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/6/68/018MS.png"
     },
     {
         "id": 19,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Rattata",
+        "type": "Normal",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/4/46/019Rattata.png/250px-019Rattata.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/4/4d/019MS.png"
     },
     {
         "id": 20,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Raticate",
+        "type": "Normal",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/f/f4/020Raticate.png/250px-020Raticate.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/4/4d/020MS.png"
     },
     {
         "id": 21,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Spearow",
+        "type": "Normal/Flying",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/8/8b/021Spearow.png/250px-021Spearow.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/5/5b/021MS.png"
     },
     {
         "id": 22,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Fearow",
+        "type": "Normal/Flying",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/a/a0/022Fearow.png/250px-022Fearow.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/3/35/022MS.png"
     },
     {
         "id": 23,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Ekans",
+        "type": "Poison",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/f/fa/023Ekans.png/250px-023Ekans.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/0/0d/023MS.png"
     },
     {
         "id": 24,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Arbok",
+        "type": "Poison",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/c/cd/024Arbok.png/250px-024Arbok.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/d/d3/024MS.png"
     },
     {
         "id": 25,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Pikachu",
+        "type": "Electric",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/0/0d/025Pikachu.png/250px-025Pikachu.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/0/0f/025MS.png"
     },
     {
         "id": 26,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Raichu",
+        "type": "Electric",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/8/88/026Raichu.png/250px-026Raichu.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/d/da/026MS.png"
     },
     {
         "id": 27,

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Button from './Button';
 import axios from 'axios';
 
 export default class PokemonFinder extends Component {
@@ -6,9 +7,11 @@ export default class PokemonFinder extends Component {
         super(props)
         this.state = {
             foundPokemon: [],
-            id: ''
+            id: '',
+            pokemonTeam: []
         }
         this.getPokemonById = this.getPokemonById.bind(this);
+        this.addPokemon = this.addPokemon.bind(this);
     }
 
     universalInput(prop, val){
@@ -29,10 +32,21 @@ export default class PokemonFinder extends Component {
         }).catch(err => console.log(err))
       }
 
+    addPokemon(){
+    const {name, species, type, personality, pokemonImg} = this.state.foundPokemon;
+    const newPokemon = {name, species, type, personality, pokemonImg};
+
+        axios.post('/api/add_pokemon', newPokemon).then(response => {
+          this.setState({
+            pokemonTeam: response.data
+          })
+        }).catch(err => console.log(err));
+      }
+
     render(){
         const {foundPokemon, id} = this.state;
         return(
-            <div>
+            <div className='poke-finder'>
                 <form onSubmit={(e) => {
                     e.preventDefault();
                     this.getPokemonById(id);
@@ -41,7 +55,7 @@ export default class PokemonFinder extends Component {
                         id: ''
                     })
                 }}>
-                    <label>Find Pokemon</label>
+                    <label>Who's that Pokemon?</label>
                     <input 
                     value={id} 
                     onChange={(e) => this.universalInput("id", e.target.value)} />
@@ -54,6 +68,8 @@ export default class PokemonFinder extends Component {
                 <div>
                     <img src={foundPokemon.pokemonImg} alt='' />
                 </div>
+
+                <Button handleClick={this.addPokemon} label='Add To Team!'/>
             </div>
         )
     }

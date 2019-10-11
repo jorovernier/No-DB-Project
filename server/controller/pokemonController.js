@@ -1,21 +1,13 @@
 const pokedex = require('../data.json');
 const team = require('../team.json');
-// var id = 1;
-
-// const {id} = req.params;
-// const indexFinder = pokedex.findIndex((pokemon) => {
-//     return pokemon.id === parseInt(id);
-// })
-
-// if(index !== -1){
-//     res.status(200).send(pokedex)
-// } else {
-//     res.status(404).send('Pokemon not found.')
-// }
+var id = 1;
 
 module.exports = {
     getPokemon: (req, res, next) => {
         res.status(200).send(pokedex);
+    },
+    getTeam: (req, res, next) => {
+        res.status(200).send(team);
     },
     getPokemonById: (req, res, next) => {
         const {id} = req.params;
@@ -31,7 +23,7 @@ module.exports = {
         }
     },
     addPokemon: (req, res, next) => {
-        const {id, name, species, type, personality, pokemonImg} = req.body;
+        const {name, species, type, personality, pokemonImg} = req.body;
         const newPokemon = {
             id,
             name,
@@ -41,7 +33,7 @@ module.exports = {
             pokemonImg
         }
         team.push(newPokemon);
-        // id++;
+        id++;
         console.log(team)
 
         res.status(200).send(team)
