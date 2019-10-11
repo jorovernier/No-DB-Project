@@ -32,6 +32,7 @@ module.exports = {
             personality,
             pokemonImg
         }
+
         team.push(newPokemon);
         id++;
         console.log(team)
