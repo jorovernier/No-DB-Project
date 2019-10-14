@@ -1,59 +1,114 @@
 .main {
+  background-image: url('https://silviahartmann.com/background-tile-art/images/gray-background-repeating-2.jpg');
+  background-repeat: repeat;
+  background-position: center;
+  font-family: 'Roboto', sans-serif;
   height: 100vh;
   width: 100vw;
+}
+
+button {
+  background-color: #787878;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  outline: none;
 }
 
 /* ---------------------------------------------------------- */
 
   header {
-    background-image: radial-gradient(red, white);
+    background-color:#ccc;
     height: 5vh;
     width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  header > span {
+    margin: 0px 150px;
   }
 
   /* ---------------------------------------------------------- */
 
   .displays {
-    background-color: blue;
     width: 100vw;
-    height: 100vh;
+    height: 95vh;
     display: flex;
     justify-content: space-between;
-    /* align-items: center; */
   }
 
 /* ---------------------------------------------------------- */
 
     .pokedex {
-      background-color: green;
+      background-color: lightcoral;
+      border: 2px solid #ccc;
+      border-radius: 15px;
+      height: 80vh;
+      width: 20vw;
       display: flex;
-      /* justify-content: center; */
+      justify-content: center;
       align-self: center;
       margin: 0 auto;
-      width: 400px;
-      height: 400px;
-      border: 1px solid #ccc;
       overflow: auto;
     }
 
-    .pokedex-display > span {
-      /* background-color: aqua; */
-      height: 10px;
-      width: 15px;
+    .pokemon {
+      background-color: rgb(228, 81, 81);
+      border-radius: 15px;
+      display: flex;
+      align-items: center;
+      margin: 5px;
+    }
+
+    .one {
+      width: 100px;
+    }
+
+    .two {
+      width: 70px;
+    }
+
+    .three {
       margin: 0px 5px;
     }
 
-    /* .sprite-image {
-      background-color: red;
-    } */
+    .sprite-image > img {
+      max-height: 50px;
+    }
 
     /* ---------------------------------------------------------- */
 
     .poke-finder {
-      background-color: yellow;
-      height: 400px;
-      width: 40vw;
+      background-color: lightcoral;
+      border: 2px solid #ccc;
+      border-radius: 15px;
+      height: 45vh;
+      width: 25vw;
+      display: flex;
+      flex-direction: column;
       align-self: center;
+      align-items: center;
+    }
+
+    .form {
+      height: 5vh;
+      width: 20vw;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin: 10px;
+    }
+
+    .found-pokemon {
+      background-color: rgb(228, 81, 81);
+      border-radius: 15px;
+      height: 33vh;
+      width: 20vw;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
     }
 
 
@@ -61,8 +116,47 @@
 
     .team {
       background-color: lightcoral;
-      height: 100vh;
-      width: 50vw;
+      border: 2px solid #ccc;
+      border-radius: 15px;
+      height: 80vh;
+      width: 20vw;
+      display: flex;
+      align-self: center;
+      justify-content: center;
+      margin: 0 auto;
+      overflow: auto;
+    }
+
+    .teammate {
+      background-color: rgb(228, 81, 81);
+      border-radius: 15px;
+      width: 18vw;
       display: flex;
       flex-direction: column;
+      align-items: center;
+      margin: 15px 50px;
+    }
+
+    .edit-inputs {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .edit-inputs > input {
+      margin: 2px;
+    }
+
+    .edit-inputs > button {
+      margin: 1px;
+    }
+
+    .teammate > button {
+      margin: 2px;
+    }
+
+    .image > img {
+      max-width: 250px;
+      width: 15vw;
+      margin: 5px;
     }

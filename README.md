@@ -10,6 +10,12 @@
 
 ## File Structure
 - src/
+    - App.js
+    - App.css
+    - index.css
+    - setupProxy.js
+    - components/
+        - Button.js
 
 
 ## --------------------------------------------------
@@ -22,6 +28,8 @@
 ### Server Folder Structure
 - server/
     - index.js
+    - data.json
+    - team.json
     - controller/
         - pokemonController.js
 
@@ -41,7 +49,8 @@ const pokemon = {
     species,
     type,
     personality,
-    pokemonImg
+    pokemonImg,
+    sprite
 }
 ```
 

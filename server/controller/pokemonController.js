@@ -23,6 +23,10 @@ module.exports = {
         }
     },
     addPokemon: (req, res, next) => {
+
+        if(team.length === 6){
+            return res.status(200).send(team)
+        }
         const {name, species, type, personality, pokemonImg} = req.body;
         const newPokemon = {
             id,
@@ -35,20 +39,19 @@ module.exports = {
 
         team.push(newPokemon);
         id++;
-        console.log(team)
 
         res.status(200).send(team)
     },
     editPokemon: (req, res, next) => {
         const {id} = req.params;
-        const {newName} = req.query;
-
+        const {newName, newPers} = req.body;
         const index = team.findIndex((pokemon) => {
             return pokemon.id === parseInt(id);
         })
 
         if(index !== -1){
             team[index].name = newName || team[index].name;
+            team[index].personality = newPers || team[index].personality;
             res.status(200).send(team)
         } else {
             res.status(404).send('Change name failed.')
@@ -67,5 +70,5 @@ module.exports = {
         } else {
             res.status(404).send('Remove pokemon failed.')
         }
-    }
+    }   
 }

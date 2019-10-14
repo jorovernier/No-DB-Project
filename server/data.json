@@ -236,218 +236,1135 @@
     {
         "id": 27,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Sandshrew",
+        "type": "Ground",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/9/9e/027Sandshrew.png/250px-027Sandshrew.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/c/c3/027MS.png"
     },
     {
         "id": 28,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Sandslash",
+        "type": "Ground",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/0/0b/028Sandslash.png/250px-028Sandslash.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/e/e0/028MS.png"
     },
     {
         "id": 29,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Nidoran F",
+        "type": "Poison",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/8/81/029Nidoran.png/250px-029Nidoran.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/a/ab/029MS.png"
     },
     {
         "id": 30,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Nidorina",
+        "type": "Poison",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/c/cd/030Nidorina.png/250px-030Nidorina.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/d/d0/030MS.png"
     },
     {
         "id": 31,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Nidoqueen",
+        "type": "Poison/Ground",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/b/bf/031Nidoqueen.png/250px-031Nidoqueen.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/3/31/031MS.png"
     },
     {
         "id": 32,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Nidoran M",
+        "type": "Poison",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/4/4a/032Nidoran.png/250px-032Nidoran.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/f/fb/032MS.png"
     },
     {
         "id": 33,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Nidorino",
+        "type": "Poison",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/9/9f/033Nidorino.png/250px-033Nidorino.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/0/0e/033MS.png"
     },
     {
         "id": 34,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Nidoking",
+        "type": "Poison/Ground",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/c/c6/034Nidoking.png/250px-034Nidoking.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/1/18/034MS.png"
     },
     {
         "id": 35,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Clefairy",
+        "type": "Normal",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/f/f4/035Clefairy.png/250px-035Clefairy.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/f/f9/035MS.png"
     },
     {
         "id": 36,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Clefable",
+        "type": "Normal",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/a/a9/036Clefable.png/250px-036Clefable.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/7/75/036MS.png"
     },
     {
         "id": 37,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Vulpix",
+        "type": "Fire",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/6/60/037Vulpix.png/250px-037Vulpix.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/8/85/037MS.png"
     },
     {
         "id": 38,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Ninetales",
+        "type": "Fire",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/0/05/038Ninetales.png/250px-038Ninetales.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/1/10/038MS.png"
     },
     {
         "id": 39,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Jigglypuff",
+        "type": "Normal",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/3/3e/039Jigglypuff.png/250px-039Jigglypuff.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/9/9c/039MS.png"
     },
     {
         "id": 40,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Wigglytuff",
+        "type": "Normal",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/9/92/040Wigglytuff.png/250px-040Wigglytuff.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/f/f1/040MS.png"
     },
     {
         "id": 41,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Zubat",
+        "type": "Poison/Flying",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/d/da/041Zubat.png/250px-041Zubat.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/9/96/041MS.png"
     },
     {
         "id": 42,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Golbat",
+        "type": "Poison/Flying",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/0/0c/042Golbat.png/250px-042Golbat.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/d/d0/042MS.png"
     },
     {
         "id": 43,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Oddish",
+        "type": "Grass/Poison",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/4/43/043Oddish.png/250px-043Oddish.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/a/a5/043MS.png"
     },
     {
         "id": 44,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Gloom",
+        "type": "Grass/Poison",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/2/2a/044Gloom.png/250px-044Gloom.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/d/d9/044MS.png"
     },
     {
         "id": 45,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Vileplume",
+        "type": "Grass/Poison",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/6/6a/045Vileplume.png/250px-045Vileplume.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/3/3e/045MS.png"
     },
     {
         "id": 46,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Paras",
+        "type": "Bug/Grass",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/d/d4/046Paras.png/250px-046Paras.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/7/7a/046MS.png"
     },
     {
         "id": 47,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Parasect",
+        "type": "Bug/Grass",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/8/80/047Parasect.png/250px-047Parasect.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/4/41/047MS.png"
     },
     {
         "id": 48,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Venonat",
+        "type": "Bug/Poison",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/a/ad/048Venonat.png/250px-048Venonat.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/1/1e/048MS.png"
     },
     {
         "id": 49,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Venomoth",
+        "type": "Bug/Poison",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/d/d3/049Venomoth.png/250px-049Venomoth.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/3/31/049MS.png"
     },
     {
         "id": 50,
         "name": "",
-        "species": "",
-        "type": "",
+        "species": "Diglett",
+        "type": "Ground",
         "personality": "",
-        "pokemonImg": "",
-        "sprite": ""
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/250px-050Diglett.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/8/8b/050MS.png"
+    },
+    {
+        "id": 51,
+        "name": "",
+        "species": "Dugtrio",
+        "type": "Ground",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/e/e5/051Dugtrio.png/250px-051Dugtrio.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/8/86/051MS.png"
+    },
+    {
+        "id": 52,
+        "name": "",
+        "species": "Meowth",
+        "type": "Normal",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/d/d6/052Meowth.png/250px-052Meowth.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/5/50/052MS.png"
+    },
+    {
+        "id": 53,
+        "name": "",
+        "species": "Persian",
+        "type": "Normal",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/1/13/053Persian.png/250px-053Persian.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/a/a7/053MS.png"
+    },
+    {
+        "id": 54,
+        "name": "",
+        "species": "Psyduck",
+        "type": "Water",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/5/53/054Psyduck.png/250px-054Psyduck.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/6/6b/054MS.png"
+    },
+    {
+        "id": 55,
+        "name": "",
+        "species": "Golduck",
+        "type": "Water",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/f/fe/055Golduck.png/250px-055Golduck.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/6/64/055MS.png"
+    },
+    {
+        "id": 56,
+        "name": "",
+        "species": "Mankey",
+        "type": "Fighting",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/4/41/056Mankey.png/250px-056Mankey.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/a/ad/056MS.png"
+    },
+    {
+        "id": 57,
+        "name": "",
+        "species": "Primeape",
+        "type": "Fighting",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/9/9a/057Primeape.png/250px-057Primeape.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/f/f1/057MS.png"
+    },
+    {
+        "id": 58,
+        "name": "",
+        "species": "Growlithe",
+        "type": "Fire",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/3/3d/058Growlithe.png/250px-058Growlithe.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/6/69/058MS.png"
+    },
+    {
+        "id": 59,
+        "name": "",
+        "species": "Arcanine",
+        "type": "Fire",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/b/b8/059Arcanine.png/250px-059Arcanine.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/3/35/059MS.png"
+    },
+    {
+        "id": 60,
+        "name": "",
+        "species": "Poliwag",
+        "type": "Water",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/4/49/060Poliwag.png/250px-060Poliwag.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/1/17/060MS.png"
+    },
+    {
+        "id": 61,
+        "name": "",
+        "species": "Poliwhirl",
+        "type": "Water",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/a/a9/061Poliwhirl.png/250px-061Poliwhirl.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/3/36/061MS.png"
+    },
+    {
+        "id": 62,
+        "name": "",
+        "species": "Poliwrath",
+        "type": "Water/Fighting",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/2/2d/062Poliwrath.png/250px-062Poliwrath.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/5/5e/062MS.png"
+    },
+    {
+        "id": 63,
+        "name": "",
+        "species": "Abra",
+        "type": "Psychic",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/6/62/063Abra.png/250px-063Abra.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/c/cf/063MS.png"
+    },
+    {
+        "id": 64,
+        "name": "",
+        "species": "Kadabra",
+        "type": "Psychic",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/9/97/064Kadabra.png/250px-064Kadabra.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/b/b6/064MS.png"
+    },
+    {
+        "id": 65,
+        "name": "",
+        "species": "Alakazam",
+        "type": "Psychic",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/c/cc/065Alakazam.png/250px-065Alakazam.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/c/ca/065MS.png"
+    },
+    {
+        "id": 66,
+        "name": "",
+        "species": "Machop",
+        "type": "Fighting",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/8/85/066Machop.png/250px-066Machop.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/6/6c/066MS.png"
+    },
+    {
+        "id": 67,
+        "name": "",
+        "species": "Machoke",
+        "type": "Fighting",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/8/8e/067Machoke.png/250px-067Machoke.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/0/0f/067MS.png"
+    },
+    {
+        "id": 68,
+        "name": "",
+        "species": "Machamp",
+        "type": "Fighting",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/8/8f/068Machamp.png/250px-068Machamp.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/1/1e/068MS.png"
+    },
+    {
+        "id": 69,
+        "name": "",
+        "species": "Bellsprout",
+        "type": "Grass/Poison",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/a/a2/069Bellsprout.png/250px-069Bellsprout.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/7/7b/069MS.png"
+    },
+    {
+        "id": 70,
+        "name": "",
+        "species": "Weepinbell",
+        "type": "Grass/Poison",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/9/9f/070Weepinbell.png/250px-070Weepinbell.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/d/d5/070MS.png"
+    },
+    {
+        "id": 71,
+        "name": "",
+        "species": "Victreebell",
+        "type": "Grass/Poison",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/b/be/071Victreebel.png/250px-071Victreebel.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/9/9b/071MS.png"
+    },
+    {
+        "id": 72,
+        "name": "",
+        "species": "Tentacool",
+        "type": "Water/Posion",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/4/4e/072Tentacool.png/250px-072Tentacool.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/4/42/072MS.png"
+    },
+    {
+        "id": 73,
+        "name": "",
+        "species": "Tentacruel",
+        "type": "Water/Posion",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/f/f6/073Tentacruel.png/250px-073Tentacruel.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/f/fc/073MS.png"
+    },
+    {
+        "id": 74,
+        "name": "",
+        "species": "Geodude",
+        "type": "Rock/Ground",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/9/98/074Geodude.png/250px-074Geodude.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/0/04/074MS.png"
+    },
+    {
+        "id": 75,
+        "name": "",
+        "species": "Graveler",
+        "type": "Rock/Ground",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/7/75/075Graveler.png/250px-075Graveler.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/5/5c/075MS.png"
+    },
+    {
+        "id": 76,
+        "name": "",
+        "species": "Golem",
+        "type": "Rock/Ground",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/f/f2/076Golem.png/250px-076Golem.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/3/34/076MS.png"
+    },
+    {
+        "id": 77,
+        "name": "",
+        "species": "Ponyta",
+        "type": "Fire",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/3/3b/077Ponyta.png/250px-077Ponyta.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/5/55/077MS.png"
+    },
+    {
+        "id": 78,
+        "name": "",
+        "species": "Rapidash",
+        "type": "Fire",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/3/3f/078Rapidash.png/250px-078Rapidash.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/6/66/078MS.png"
+    },
+    {
+        "id": 79,
+        "name": "",
+        "species": "Slowpoke",
+        "type": "Water/Psychic",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/7/70/079Slowpoke.png/250px-079Slowpoke.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/6/6a/079MS.png"
+    },
+    {
+        "id": 80,
+        "name": "",
+        "species": "Slowbro",
+        "type": "Water/Psychic",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/8/80/080Slowbro.png/250px-080Slowbro.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/b/b6/080MS.png"
+    },
+    {
+        "id": 81,
+        "name": "",
+        "species": "Magnemite",
+        "type": "Electric/Steel",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/6/6c/081Magnemite.png/250px-081Magnemite.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/0/0f/081MS.png"
+    },
+    {
+        "id": 82,
+        "name": "",
+        "species": "Magneton",
+        "type": "Electric/Steel",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/7/72/082Magneton.png/250px-082Magneton.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/0/0c/082MS.png"
+    },
+    {
+        "id": 83,
+        "name": "",
+        "species": "Farfetch'd",
+        "type": "Normal/Flying",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/f/f8/083Farfetch%27d.png/250px-083Farfetch%27d.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/5/57/083MS.png"
+    },
+    {
+        "id": 84,
+        "name": "",
+        "species": "Doduo",
+        "type": "Normal/Flying",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/5/54/084Doduo.png/250px-084Doduo.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/f/fc/084MS.png"
+    },
+    {
+        "id": 85,
+        "name": "",
+        "species": "Dodrio",
+        "type": "Normal/Flying",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/9/93/085Dodrio.png/250px-085Dodrio.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/1/19/085MS.png"
+    },
+    {
+        "id": 86,
+        "name": "",
+        "species": "Seel",
+        "type": "Water",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/1/1f/086Seel.png/250px-086Seel.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/9/9b/086MS.png"
+    },
+    {
+        "id": 87,
+        "name": "",
+        "species": "Dewgong",
+        "type": "Water/Ice",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/c/c7/087Dewgong.png/250px-087Dewgong.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/2/20/087MS.png"
+    },
+    {
+        "id": 88,
+        "name": "",
+        "species": "Grimer",
+        "type": "Poison",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/a/a0/088Grimer.png/250px-088Grimer.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/5/50/088MS.png"
+    },
+    {
+        "id": 89,
+        "name": "",
+        "species": "Muk",
+        "type": "Poison",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/7/7c/089Muk.png/250px-089Muk.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/b/b4/089MS.png"
+    },
+    {
+        "id": 90,
+        "name": "",
+        "species": "Shellder",
+        "type": "Water",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/4/40/090Shellder.png/250px-090Shellder.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/4/41/090MS.png"
+    },
+    {
+        "id": 91,
+        "name": "",
+        "species": "Cloyster",
+        "type": "Water/Ice",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/1/1d/091Cloyster.png/250px-091Cloyster.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/b/bc/091MS.png"
+    },
+    {
+        "id": 92,
+        "name": "",
+        "species": "Ghastly",
+        "type": "Ghost/Poison",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/c/ca/092Gastly.png/250px-092Gastly.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/c/cf/092MS.png"
+    },
+    {
+        "id": 93,
+        "name": "",
+        "species": "Haunter",
+        "type": "Ghost/Poison",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/6/62/093Haunter.png/250px-093Haunter.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/7/71/093MS.png"
+    },
+    {
+        "id": 94,
+        "name": "",
+        "species": "Gengar",
+        "type": "Ghost/Poison",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/c/c6/094Gengar.png/250px-094Gengar.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/a/a4/094MS.png"
+    },
+    {
+        "id": 95,
+        "name": "",
+        "species": "Onix",
+        "type": "Rock/Ground",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/9/9a/095Onix.png/250px-095Onix.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/c/cd/095MS.png"
+    },
+    {
+        "id": 96,
+        "name": "",
+        "species": "Drowzee",
+        "type": "Psychic",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/3/3e/096Drowzee.png/250px-096Drowzee.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/8/8e/096MS.png"
+    },
+    {
+        "id": 97,
+        "name": "",
+        "species": "Hypno",
+        "type": "Psychic",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/0/0a/097Hypno.png/250px-097Hypno.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/9/98/097MS.png"
+    },
+    {
+        "id": 98,
+        "name": "",
+        "species": "Krabby",
+        "type": "Water",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/a/a7/098Krabby.png/250px-098Krabby.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/4/40/098MS.png"
+    },
+    {
+        "id": 99,
+        "name": "",
+        "species": "Kingler",
+        "type": "Water",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/7/71/099Kingler.png/250px-099Kingler.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/5/5c/099MS.png"
+    },
+    {
+        "id": 100,
+        "name": "",
+        "species": "Voltorb",
+        "type": "Electric",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/d/da/100Voltorb.png/250px-100Voltorb.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/c/c1/100MS.png"
+    },
+    {
+        "id": 101,
+        "name": "",
+        "species": "Electrode",
+        "type": "Electric",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/8/84/101Electrode.png/250px-101Electrode.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/6/69/101MS.png"
+    },
+    {
+        "id": 102,
+        "name": "",
+        "species": "Exeggcute",
+        "type": "Grass/Psychic",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/a/af/102Exeggcute.png/250px-102Exeggcute.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/a/a6/102MS.png"
+    },
+    {
+        "id": 103,
+        "name": "",
+        "species": "Exeggutor",
+        "type": "Grass/Psychic",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/2/24/103Exeggutor.png/250px-103Exeggutor.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/d/db/103MS.png"
+    },
+    {
+        "id": 104,
+        "name": "",
+        "species": "Cubone",
+        "type": "Ground",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/2/2a/104Cubone.png/250px-104Cubone.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/2/2e/104MS.png"
+    },
+    {
+        "id": 105,
+        "name": "",
+        "species": "Marowak",
+        "type": "Ground",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/9/98/105Marowak.png/250px-105Marowak.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/6/6f/105MS.png"
+    },
+    {
+        "id": 106,
+        "name": "",
+        "species": "Hitmonlee",
+        "type": "Fighting",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/3/32/106Hitmonlee.png/250px-106Hitmonlee.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/6/60/106MS.png"
+    },
+    {
+        "id": 107,
+        "name": "",
+        "species": "Hitmonchan",
+        "type": "Fighting",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/a/a3/107Hitmonchan.png/250px-107Hitmonchan.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/1/1a/107MS.png"
+    },
+    {
+        "id": 108,
+        "name": "",
+        "species": "Lickitung",
+        "type": "Normal",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/0/00/108Lickitung.png/250px-108Lickitung.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/2/25/108MS.png"
+    },
+    {
+        "id": 109,
+        "name": "",
+        "species": "Koffing",
+        "type": "Poison",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/1/17/109Koffing.png/250px-109Koffing.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/3/3f/109MS.png"
+    },
+    {
+        "id": 110,
+        "name": "",
+        "species": "Weezing",
+        "type": "Poison",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/4/42/110Weezing.png/250px-110Weezing.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/2/22/110MS.png"
+    },
+    {
+        "id": 111,
+        "name": "",
+        "species": "Rhyhorn",
+        "type": "Ground/Rock",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/9/9b/111Rhyhorn.png/250px-111Rhyhorn.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/6/67/111MS.png"
+    },
+    {
+        "id": 112,
+        "name": "",
+        "species": "Rhydon",
+        "type": "Ground/Rock",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/4/47/112Rhydon.png/250px-112Rhydon.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/c/ce/112MS.png"
+    },
+    {
+        "id": 113,
+        "name": "",
+        "species": "Chansey",
+        "type": "Normal",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/c/cd/113Chansey.png/250px-113Chansey.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/e/ea/113MS.png"
+    },
+    {
+        "id": 114,
+        "name": "",
+        "species": "Tangela",
+        "type": "Grass",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/3/3e/114Tangela.png/250px-114Tangela.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/4/45/114MS.png"
+    },
+    {
+        "id": 115,
+        "name": "",
+        "species": "Kangaskhan",
+        "type": "Normal",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/4/4e/115Kangaskhan.png/250px-115Kangaskhan.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/6/68/115MS.png"
+    },
+    {
+        "id": 116,
+        "name": "",
+        "species": "Horsea",
+        "type": "Water",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/5/5a/116Horsea.png/250px-116Horsea.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/2/23/116MS.png"
+    },
+    {
+        "id": 117,
+        "name": "",
+        "species": "Seadra",
+        "type": "Water",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/2/26/117Seadra.png/250px-117Seadra.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/8/81/117MS.png"
+    },
+    {
+        "id": 118,
+        "name": "",
+        "species": "Goldeen",
+        "type": "Water",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/7/7b/118Goldeen.png/250px-118Goldeen.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/9/9b/118MS.png"
+    },
+    {
+        "id": 119,
+        "name": "",
+        "species": "Seaking",
+        "type": "Water",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/6/6a/119Seaking.png/250px-119Seaking.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/8/88/119MS.png"
+    },
+    {
+        "id": 120,
+        "name": "",
+        "species": "Staryu",
+        "type": "Water",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/4/4f/120Staryu.png/250px-120Staryu.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/6/60/120MS.png"
+    },
+    {
+        "id": 121,
+        "name": "",
+        "species": "Starmie",
+        "type": "Water/Psychic",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/c/cd/121Starmie.png/250px-121Starmie.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/5/55/121MS.png"
+    },
+    {
+        "id": 122,
+        "name": "",
+        "species": "Mr. Mime",
+        "type": "Psychic",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/e/ec/122Mr._Mime.png/250px-122Mr._Mime.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/5/58/122MS.png"
+    },
+    {
+        "id": 123,
+        "name": "",
+        "species": "Scyther",
+        "type": "Bug/Flying",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/b/ba/123Scyther.png/250px-123Scyther.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/5/54/123MS.png"
+    },
+    {
+        "id": 124,
+        "name": "",
+        "species": "Jynx",
+        "type": "Ice/Psychic",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/7/7c/124Jynx.png/250px-124Jynx.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/f/f5/124MS.png"
+    },
+    {
+        "id": 125,
+        "name": "",
+        "species": "Electabuzz",
+        "type": "Electric",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/d/de/125Electabuzz.png/250px-125Electabuzz.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/7/72/125MS.png"
+    },
+    {
+        "id": 126,
+        "name": "",
+        "species": "Magmar",
+        "type": "Fire",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/8/8c/126Magmar.png/250px-126Magmar.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/e/e7/126MS.png"
+    },
+    {
+        "id": 127,
+        "name": "",
+        "species": "Pinsir",
+        "type": "Bug",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/7/71/127Pinsir.png/250px-127Pinsir.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/5/5c/127MS.png"
+    },
+    {
+        "id": 128,
+        "name": "",
+        "species": "Tauros",
+        "type": "Normal",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/b/b8/128Tauros.png/250px-128Tauros.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/9/95/128MS.png"
+    },
+    {
+        "id": 129,
+        "name": "",
+        "species": "Magikarp",
+        "type": "Water",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/0/02/129Magikarp.png/250px-129Magikarp.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/7/7c/129MS.png"
+    },
+    {
+        "id": 130,
+        "name": "",
+        "species": "Gyarados",
+        "type": "Water/Flying",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/4/41/130Gyarados.png/250px-130Gyarados.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/a/a0/130MS.png"
+    },
+    {
+        "id": 131,
+        "name": "",
+        "species": "Lapras",
+        "type": "Water/Ice",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/a/ab/131Lapras.png/250px-131Lapras.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/4/4b/131MS.png"
+    },
+    {
+        "id": 132,
+        "name": "",
+        "species": "Ditto",
+        "type": "Normal",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/3/36/132Ditto.png/250px-132Ditto.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/5/53/132MS.png"
+    },
+    {
+        "id": 133,
+        "name": "",
+        "species": "Eevee",
+        "type": "Normal",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/e/e2/133Eevee.png/250px-133Eevee.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/d/de/133MS.png"
+    },
+    {
+        "id": 134,
+        "name": "",
+        "species": "Vaporeon",
+        "type": "Water",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/f/fd/134Vaporeon.png/250px-134Vaporeon.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/b/be/134MS.png"
+    },
+    {
+        "id": 135,
+        "name": "",
+        "species": "Jolteon",
+        "type": "Electric",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/b/bb/135Jolteon.png/250px-135Jolteon.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/1/16/135MS.png"
+    },
+    {
+        "id": 136,
+        "name": "",
+        "species": "Flareon",
+        "type": "Fire",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/d/dd/136Flareon.png/250px-136Flareon.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/3/30/136MS.png"
+    },
+    {
+        "id": 137,
+        "name": "",
+        "species": "Porygon",
+        "type": "Normal",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/6/6b/137Porygon.png/250px-137Porygon.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/f/f7/137MS.png"
+    },
+    {
+        "id": 138,
+        "name": "",
+        "species": "Omanyte",
+        "type": "Rock/Water",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/7/79/138Omanyte.png/250px-138Omanyte.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/9/97/138MS.png"
+    },
+    {
+        "id": 139,
+        "name": "",
+        "species": "Omastar",
+        "type": "Rock/Water",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/4/43/139Omastar.png/250px-139Omastar.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/2/2a/139MS.png"
+    },
+    {
+        "id": 140,
+        "name": "",
+        "species": "Kabuto",
+        "type": "Water/Rock",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/f/f9/140Kabuto.png/250px-140Kabuto.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/1/1e/140MS.png"
+    },
+    {
+        "id": 141,
+        "name": "",
+        "species": "Kabutops",
+        "type": "Water/Rock",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/2/29/141Kabutops.png/250px-141Kabutops.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/0/08/141MS.png"
+    },
+    {
+        "id": 142,
+        "name": "",
+        "species": "Aerodactyl",
+        "type": "Rock/Flying",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/e/e8/142Aerodactyl.png/250px-142Aerodactyl.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/d/d1/142MS.png"
+    },
+    {
+        "id": 143,
+        "name": "",
+        "species": "Snorlax",
+        "type": "Normal",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/f/fb/143Snorlax.png/250px-143Snorlax.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/d/d6/143MS.png"
+    },
+    {
+        "id": 144,
+        "name": "",
+        "species": "Articuno",
+        "type": "Ice/Flying",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/4/4e/144Articuno.png/250px-144Articuno.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/0/04/144MS.png"
+    },
+    {
+        "id": 145,
+        "name": "",
+        "species": "Zapdos",
+        "type": "Electric/Flying",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/e/e3/145Zapdos.png/250px-145Zapdos.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/3/3f/145MS.png"
+    },
+    {
+        "id": 146,
+        "name": "",
+        "species": "Moltres",
+        "type": "Fire/Flying",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/1/1b/146Moltres.png/250px-146Moltres.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/f/fe/146MS.png"
+    },
+    {
+        "id": 147,
+        "name": "",
+        "species": "Dratini",
+        "type": "Dragon",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/c/cc/147Dratini.png/250px-147Dratini.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/2/26/147MS.png"
+    },
+    {
+        "id": 148,
+        "name": "",
+        "species": "Dragonair",
+        "type": "Dragon",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/9/93/148Dragonair.png/250px-148Dragonair.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/4/4e/148MS.png"
+    },
+    {
+        "id": 149,
+        "name": "",
+        "species": "Dragonite",
+        "type": "Dragon/Flying",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/8/8b/149Dragonite.png/250px-149Dragonite.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/c/cc/149MS.png"
+    },
+    {
+        "id": 150,
+        "name": "",
+        "species": "Mewtwo",
+        "type": "Psychic",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/7/78/150Mewtwo.png/250px-150Mewtwo.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/1/1a/150MS.png"
+    },
+    {
+        "id": 151,
+        "name": "",
+        "species": "Mew",
+        "type": "Psychic",
+        "personality": "",
+        "pokemonImg": "https://cdn.bulbagarden.net/upload/thumb/b/b1/151Mew.png/250px-151Mew.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/a/a7/151MS.png"
+    },
+    {
+        "id": 420,
+        "name": "",
+        "species": "WEEDle",
+        "type": "Bug/Poison",
+        "personality": "",
+        "pokemonImg": "https://i.imgur.com/FuZtDvY.png",
+        "sprite": "https://cdn.bulbagarden.net/upload/6/65/013MS.png"
     }
-    
 ]

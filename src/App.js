@@ -10,12 +10,19 @@ class App extends React.Component {
       pokemon: [],
       foundPokemon: [],
       pokemonTeam: [],
-      id: ''
+      inputName: '',
+      inputPers: '',
+      edit: false,
+      search: false,
+      id: '',
+      newName: '',
+      newPers: ''
     };
     this.getAllPokemon = this.getAllPokemon.bind(this);
     this.addPokemon = this.addPokemon.bind(this);
     this.getPokemonById = this.getPokemonById.bind(this);
     this.getPokemonTeam = this.getPokemonTeam.bind(this);
+    this.deletePokemon = this.deletePokemon.bind(this);
   }
 
 // -----------------------------------------All Functions----------------------------------------- //
@@ -67,48 +74,93 @@ class App extends React.Component {
     })
   }
 
+  editPokemon(id){
+   const updated = {
+      newName: this.state.inputName,
+      newPers: this.state.inputPers
+    }
+    axios.put(`/api/edit_pokemon/${id}`, updated).then(response => {
+      this.setState({
+        pokemonTeam: response.data,
+        edit: false
+      })
+    })
+  }
+
+  deletePokemon(id){
+    axios.delete(`/api/delete_pokemon/${id}`).then(response => {
+      this.setState({
+        pokemonTeam: response.data
+      })
+    }).catch(err => console.log(err))
+  }
+
+  setEdit(){
+    this.setState({
+      edit: !this.state.edit
+    })
+  }
+
 // --------------------------------------Const Variables-------------------------------------------- //
 
   render(){
-    const {pokemon} = this.state;
-    const {foundPokemon, id} = this.state;
-    const {pokemonTeam} = this.state;
+    const {pokemon, pokemonTeam, foundPokemon, id, edit, search} = this.state;
+
     const mappedPokemon = pokemon.map(pokemon => {
       return (
         <div className='pokedex-display' key={pokemon.id} >
 
-          <span className='sprite-image'>
-            <img src={pokemon.sprite} alt='pokemon team member' />
-          </span>
+          <div className='pokemon'>
+            <span className='sprite-image'>
+              <img src={pokemon.sprite} alt='pokemon team member' />
+            </span>
 
-          <span>{pokemon.species} </span>
+            <span className='one'>{pokemon.species} </span>
 
-          <span>Dex #: {pokemon.id} </span>
+            <span className='two'>Dex #: {pokemon.id} </span>
 
-          <span>Type: {pokemon.type} </span>
+            <span className='three'>Type: {pokemon.type} </span>
+          </div>
 
         </div>
       )
     })
+
     const mappedTeam = pokemonTeam.map(pokemon => {
       return(
-        <div className='team-display' key={pokemon.name}>
+        <div className='team-display' key={pokemon.id}>
+          <div className='teammate'>
+            <h1>{pokemon.name}</h1>
 
-          <h1>{pokemon.name}</h1>
+            <h2>{pokemon.species}</h2>
 
-          <h2>{pokemon.species}</h2>
+            <div>{pokemon.personality}</div>
 
-          <div>{pokemon.personality}</div>
+            <div>Type: {pokemon.type}</div>
 
-          <div>Type: {pokemon.type}</div>
+            <div className='image'>
+              <img src={pokemon.pokemonImg} alt='pokemon team member' />
+            </div>
 
-          <div className='image'>
-            <img src={pokemon.pokemonImg} alt='pokemon team member' />
+            {edit ? 
+                <span className='edit-inputs'> 
+                  <input onChange={(e) => this.universalInput("inputName", e.target.value)} label='Name' placeholder='Name'/> 
+                  <input onChange={(e) => this.universalInput("inputPers", e.target.value)} label='Personality' placeholder='Personality'/> 
+                  <Button handleClick={() => this.editPokemon(pokemon.id)} label='Save' /> 
+                </span> : 
+                <></> 
+            }
+
+            <Button handleClick={() => this.setEdit()} label='Edit'/>
+
+            <Button handleClick={() => this.deletePokemon(pokemon.id)} label='Remove'/>
+
           </div>
                 
         </div>
       )
     })
+    
 
 // --------------------------------------All Function Returns-------------------------------------------- //
     
@@ -116,7 +168,9 @@ class App extends React.Component {
       <div className="main">
 
         <header>
-          Pokedex!
+          <span>Pokedex</span>
+          <span>Pokemon Finder</span>
+          <span>Team</span>
         </header>
 
         <div className='displays'>
@@ -136,24 +190,33 @@ class App extends React.Component {
                 this.getPokemonById(id);
                 this.setState({
                     foundPokemon: [],
-                    id: ''
+                    id: '',
+                    search: true
                 })
               }}>
-                <label>Who's that Pokemon?</label>
-                <input 
-                value={id} 
-                onChange={(e) => this.universalInput("id", e.target.value)} />
+                <div className='form'>
+                  <label>Who's that Pokemon?</label>
+                  <input 
+                  placeholder='Dex #'
+                  value={id} 
+                  onChange={(e) => this.universalInput("id", e.target.value)} />
 
-                <button>Search</button>
+                  <button>Search</button>
+                </div>
             </form>
 
-            <div>Pokemon: {foundPokemon.species}</div>
-            <span>Type: {foundPokemon.type}</span>
             <div>
-              <img src={foundPokemon.pokemonImg} alt='' />
+              {search ? 
+                <div className='found-pokemon'>
+                  <div>Pokemon: {foundPokemon.species}</div>
+                  <span>Type: {foundPokemon.type}</span>
+                  <div>
+                    <img src={foundPokemon.pokemonImg} alt='' />
+                  </div>
+                  <Button handleClick={this.addPokemon} label='Add To Team!'/> 
+                </div>
+                : <></>}
             </div>
-
-            <Button handleClick={this.addPokemon} label='Add To Team!'/>
 
           </div>
 
