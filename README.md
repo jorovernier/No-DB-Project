@@ -16,6 +16,7 @@
     - setupProxy.js
     - components/
         - Button.js
+        - Counter.js
 
 
 ## --------------------------------------------------
