@@ -8,9 +8,13 @@
 }
 
 button {
-  background-color: #787878;
+  background-color: #7c7c7c;
   border: 1px solid #ccc;
   border-radius: 10px;
+  outline: none;
+}
+
+input {
   outline: none;
 }
 
@@ -26,7 +30,7 @@ button {
   }
 
   header > span {
-    margin: 0px 150px;
+    margin: 0px 130px;
   }
 
   /* ---------------------------------------------------------- */
@@ -45,7 +49,7 @@ button {
       border: 2px solid #ccc;
       border-radius: 15px;
       height: 80vh;
-      width: 20vw;
+      width: 25vw;
       display: flex;
       justify-content: center;
       align-self: center;
@@ -56,21 +60,22 @@ button {
     .pokemon {
       background-color: rgb(228, 81, 81);
       border-radius: 15px;
+      width: 24vw;
       display: flex;
       align-items: center;
       margin: 5px;
     }
 
     .one {
-      width: 100px;
+      width: 20vw;
     }
 
     .two {
-      width: 70px;
+      width: 20vw;
     }
 
     .three {
-      margin: 0px 5px;
+      width: 20vw;
     }
 
     .sprite-image > img {
@@ -111,6 +116,10 @@ button {
       justify-content: center;
     }
 
+    .found-image > img {
+      max-height: 25vh;
+      height: 25vh;
+    }
 
 /* ---------------------------------------------------------- */
 
@@ -119,7 +128,7 @@ button {
       border: 2px solid #ccc;
       border-radius: 15px;
       height: 80vh;
-      width: 20vw;
+      width: 25vw;
       display: flex;
       align-self: center;
       justify-content: center;
@@ -130,11 +139,16 @@ button {
     .teammate {
       background-color: rgb(228, 81, 81);
       border-radius: 15px;
-      width: 18vw;
+      width: 20vw;
       display: flex;
       flex-direction: column;
       align-items: center;
+      justify-content: center;
       margin: 15px 50px;
+    }
+
+    .teammate > * {
+      margin: 2px;
     }
 
     .edit-inputs {
@@ -156,6 +170,8 @@ button {
     }
 
     .image > img {
+      background-color: lightcoral;
+      border-radius: 15px;
       max-width: 250px;
       width: 15vw;
       margin: 5px;

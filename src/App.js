@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import axios from 'axios';
 import Button from './components/Button';
+import Counter from './components/Counter';
 
 class App extends React.Component {
   constructor(props){
@@ -12,6 +13,7 @@ class App extends React.Component {
       pokemonTeam: [],
       inputName: '',
       inputPers: '',
+      label: 'Edit',
       edit: false,
       search: false,
       id: '',
@@ -101,6 +103,19 @@ class App extends React.Component {
     })
   }
 
+  // setLabel(){
+  //   if(this.state.edit === false){
+  //     this.state.label = 'Edit'
+  //   } else {
+  //     this.state.label = 'Cancel'
+  //   }
+  // }
+
+  // setButtons(){
+  //   this.setEdit();
+  //   this.setLabel();
+  // }
+
 // --------------------------------------Const Variables-------------------------------------------- //
 
   render(){
@@ -119,7 +134,7 @@ class App extends React.Component {
 
             <span className='two'>Dex #: {pokemon.id} </span>
 
-            <span className='three'>Type: {pokemon.type} </span>
+            <span className='three'>Type(s): {pokemon.type} </span>
           </div>
 
         </div>
@@ -130,13 +145,13 @@ class App extends React.Component {
       return(
         <div className='team-display' key={pokemon.id}>
           <div className='teammate'>
-            <h1>{pokemon.name}</h1>
+            <h1>Name: {pokemon.name}</h1>
 
-            <h2>{pokemon.species}</h2>
+            <h2>Species: {pokemon.species}</h2>
 
-            <div>{pokemon.personality}</div>
+            <div>Personality: {pokemon.personality}</div>
 
-            <div>Type: {pokemon.type}</div>
+            <div>Type(s): {pokemon.type}</div>
 
             <div className='image'>
               <img src={pokemon.pokemonImg} alt='pokemon team member' />
@@ -151,7 +166,7 @@ class App extends React.Component {
                 <></> 
             }
 
-            <Button handleClick={() => this.setEdit()} label='Edit'/>
+            <Button handleClick={() => this.setEdit()} label={this.state.label} />
 
             <Button handleClick={() => this.deletePokemon(pokemon.id)} label='Remove'/>
 
@@ -168,9 +183,19 @@ class App extends React.Component {
       <div className="main">
 
         <header>
-          <span>Pokedex</span>
+          
+          <div className='dex-count'>
+            <span>Pokedex: </span>
+            <Counter property={this.state.pokemon.length}/>
+          </div>
+
           <span>Pokemon Finder</span>
-          <span>Team</span>
+
+          <div className='team-count'>
+            <span>Team: </span>
+            <Counter property={this.state.pokemonTeam.length}/>
+          </div>
+
         </header>
 
         <div className='displays'>
@@ -187,7 +212,12 @@ class App extends React.Component {
 
             <form onSubmit={(e) => {
                 e.preventDefault();
+                if(id !== ''){
                 this.getPokemonById(id);
+              } else {
+                return <div>Pokemon not available.</div>
+              } 
+
                 this.setState({
                     foundPokemon: [],
                     id: '',
@@ -196,7 +226,7 @@ class App extends React.Component {
               }}>
                 <div className='form'>
                   <label>Who's that Pokemon?</label>
-                  <input 
+                  <input
                   placeholder='Dex #'
                   value={id} 
                   onChange={(e) => this.universalInput("id", e.target.value)} />
@@ -209,8 +239,8 @@ class App extends React.Component {
               {search ? 
                 <div className='found-pokemon'>
                   <div>Pokemon: {foundPokemon.species}</div>
-                  <span>Type: {foundPokemon.type}</span>
-                  <div>
+                  <span>Type(s): {foundPokemon.type}</span>
+                  <div className='found-image'>
                     <img src={foundPokemon.pokemonImg} alt='' />
                   </div>
                   <Button handleClick={this.addPokemon} label='Add To Team!'/> 
